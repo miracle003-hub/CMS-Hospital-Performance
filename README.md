@@ -17,6 +17,12 @@ Hospitals CMS rated "Needs Improvement" had a 15.1 average readmission score, co
 When isolating a single measure (AMI 30-day readmission rate), the gap narrows considerably, showing the importance of not over-generalizing across mixed measures.
 Dashboards
 
-Show Image Excel dashboard: performance tier breakdown, state comparisons, top 10 hospitals
 
-Show Image Power BI dashboard: KPI cards, map, gauge, and scatter plot with state-level filtering
+Files in This Repository
+sql_views.sql — all SQL View definitions used across the project
+CMS_Hospital_Dashboard.xlsx — Excel workbook with live SQL connection and dashboard
+CMS_Hospital_Dashboard.pbix — Power BI report file
+CMD_Hospital.ipynb — Jupyter Notebook with statistical analysis and visualizations
+Skills Demonstrated
+
+SQL JOINs, Views, TRY_CAST data cleaning, Power Query, Pivot Tables, DAX-free Power BI visuals, pandas data wrangling, correlation analysis, group comparisons, matplotlib/seaborn visualization, and heatmap color scaling.
